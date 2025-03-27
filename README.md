@@ -1,3 +1,5 @@
 ﻿# Workshop Week 5
 
-## SQL Injections - Varun Irani
+## SQL Injections - JB
+
+Trigger
